@@ -1,7 +1,9 @@
 # Youtube
 Coding a redesigned Youtube. A Glo Academy training project
 
-<h3>Tech Stack:</h3>
+
+
+### Tech Stack:
 - HTML
 - CSS
 - Normalize.css
