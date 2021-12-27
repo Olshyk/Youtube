@@ -8,3 +8,4 @@ Coding a redesigned Youtube. A Glo Academy training project
 - CSS
 - Normalize.css
 - svg sprites
+- swiper
